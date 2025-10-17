@@ -57,7 +57,7 @@ Takeaway: In the near term, AI looks more like a broad productivity booster and 
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-**Early career boost:** The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure—**but may also **compress career ladders** unless organizations redesign roles.
+**Early career boost:** The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure—** but may also **compress career ladders** unless organizations redesign roles.
 
 ---
 
@@ -66,7 +66,7 @@ Takeaway: In the near term, AI looks more like a broad productivity booster and 
 1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
 2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem framing**, **data/context curation**, **taste**, and **verification**.  
 3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+4. **Metrics** change: throughput and cycle time improve; _judgement errors_ (hallucinations, misclassifications) become the new bottlenecks to manage.
 
 > Design principle for teams: Automate the boring, amplify the human.
 
